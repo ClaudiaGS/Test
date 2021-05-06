@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner sc = new Scanner(System.in);
-//commit on feature 2
+//commit on feature 3
     public static void main(String[] args) {
         int nbZones = sc.nextInt();
         if(nbZones==0){
